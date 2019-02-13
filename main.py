@@ -2,4 +2,5 @@
 __author__ = 'alex'
 
 import pandas as pd
-print(pd)
+df=pd.read_csv("./data/HR.csv")
+print(df.head(10))
