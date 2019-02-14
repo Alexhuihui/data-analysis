@@ -1,3 +1,6 @@
+.ipynb_checkpoints
+itest/.ipynb_checkpoints
+
 app/secure.py
 
 *.class
